@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Číselné soustavy a algoritmy nad prvočísly", "Číselné soustavy a algoritmy nad prvočísly\Číselné soustavy a algoritmy nad prvočísly.csproj", "{0FA23038-1D47-42EF-8BAE-E6531319FAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01", "01\01.csproj", "{55097F99-CC81-420A-8805-B5D442B49F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA23038-1D47-42EF-8BAE-E6531319FAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA23038-1D47-42EF-8BAE-E6531319FAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA23038-1D47-42EF-8BAE-E6531319FAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA23038-1D47-42EF-8BAE-E6531319FAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55097F99-CC81-420A-8805-B5D442B49F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55097F99-CC81-420A-8805-B5D442B49F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55097F99-CC81-420A-8805-B5D442B49F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55097F99-CC81-420A-8805-B5D442B49F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {140E6A38-14DE-4CF5-9F17-A658E2BEC596}
+	EndGlobalSection
+EndGlobal
