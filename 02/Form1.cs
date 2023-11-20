@@ -27,7 +27,7 @@ namespace _02
         {
             bool jePrvocislo = true;
             if (cislo == 1 || (cislo % 2 == 0 && cislo != 2)) jePrvocislo = false;
-            for (int i = 3; i < Math.Sqrt(cislo) && jePrvocislo; i += 2)
+            for (int i = 3; i <= Math.Sqrt(cislo) && jePrvocislo; i += 2)
             {
                 if (cislo % i == 0) jePrvocislo = false;
             }
